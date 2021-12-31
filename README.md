@@ -1,5 +1,5 @@
-# Added by samir khanal after cloning
+# Added by samir nepali after cloning
 
 ## test commit
 
-hello guys.
+hello samir nepali.
